@@ -1,0 +1,45 @@
+ECHO is on.
+EXTRA Cell in WB2 Sheet1!C1 => 'column3'
+EXTRA Cell in WB2 Sheet1!C2 => 'data'
+EXTRA Cell in WB2 Sheet1!C3 => 'n/a'
+EXTRA Cell in WB2 Sheet1!C4 => 'miss'
+EXTRA Cell in WB2 Sheet1!C5 => 'okies'
+----------------- DIFF -------------------
+Sheets: []
+Rows: []
+Cols: []
+----------------- EXTRA WB1 -------------------
+Sheets: []
+Rows: []
+Cols: []
+----------------- EXTRA WB2 -------------------
+Sheets: [Sheet1]
+Rows: [1, 2, 3, 4, 5]
+Cols: [C]
+-----------------------------------------
+Excel files C:\Users\madhu\OneDrive\Documents\GitHub\ExcelCompare-0.6.1\SourceExcelFiles\excel_one.xlsx and C:\Users\madhu\OneDrive\Documents\GitHub\ExcelCompare-0.6.1\TargetExcelFiles\excel_two.xlsx differ
+ECHO is off.
+"************************************************** Comparison Completed **************************************************"
+ECHO is off.
+EXTRA Cell in WB2 Sheet1!C1 => 'column3'
+EXTRA Cell in WB2 Sheet1!C2 => 'data'
+EXTRA Cell in WB2 Sheet1!C3 => 'n/a'
+EXTRA Cell in WB2 Sheet1!C4 => 'miss'
+EXTRA Cell in WB2 Sheet1!C5 => 'okies'
+----------------- DIFF -------------------
+Sheets: []
+Rows: []
+Cols: []
+----------------- EXTRA WB1 -------------------
+Sheets: []
+Rows: []
+Cols: []
+----------------- EXTRA WB2 -------------------
+Sheets: [Sheet1]
+Rows: [1, 2, 3, 4, 5]
+Cols: [C]
+-----------------------------------------
+Excel files C:\Users\madhu\OneDrive\Documents\GitHub\ExcelCompare-0.6.1\SourceExcelFiles\excel_one.xlsx and C:\Users\madhu\OneDrive\Documents\GitHub\ExcelCompare-0.6.1\TargetExcelFiles\excel_two.xlsx differ
+ECHO is off.
+"************************************************** Comparison Completed **************************************************"
+ECHO is off.
